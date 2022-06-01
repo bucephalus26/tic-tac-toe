@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
 
-A simple Tic-Tac-Toe game written in Java.
+A simple JavaFX Tic-Tac-Toe game.
 
 ![ScreenShot](https://raw.github.com/bucephalus26/tic-tac-toe/master/tic-tac-toe.PNG)
